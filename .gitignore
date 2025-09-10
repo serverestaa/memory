@@ -1,0 +1,5 @@
+data_ch/
+data/
+venv/
+Conformer/conformer_optimized/__pycache__/conformer_opt.cpython-311.pyc
+Conformer/conformer/__pycache__/conformer.cpython-311.pyc
